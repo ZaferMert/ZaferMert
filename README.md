@@ -41,5 +41,5 @@ A responsive React application for organizing learning topics, tracking progress
 
 ## Connect
 
-- [GitHub](https://github.com/ZaferMert)
+- [LinkedIn](https://www.linkedin.com/in/zafer-mert-serinken/)
   
